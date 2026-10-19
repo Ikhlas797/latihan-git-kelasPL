@@ -1,2 +1,2 @@
-# latihan-git-kelasPL
-latihan-git-kelasPL
+# latihan-git-dasar
+Modul latihan Git pertama
